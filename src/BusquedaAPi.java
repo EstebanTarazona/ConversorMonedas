@@ -10,7 +10,7 @@ public class BusquedaAPi {
 
     public Moneda CambioDivisa(String baseCode, String targetCode,Double AMOUNT){
 
-        URI dirreccion = URI.create("https://v6.exchangerate-api.com/v6/21ac52aa31a9293cded622f9/pair/"+
+        URI dirreccion = URI.create("https://v6.exchangerate-api.com/v6/KEY/pair/"+
                         baseCode+
                         "/"+
                         targetCode +
