@@ -41,11 +41,11 @@ Al iniciar el programa, se presenta una interfaz donde el usuario puede seleccio
  ![image](https://github.com/EstebanTarazona/ConversorMonedas/assets/132153330/06f82f60-b94d-4410-b3a9-90f5204b407a)
 
  
-El usuario ingresa la cantidad de dinero que desea convertir con ayuda del metodo BusquedaApi.
+El usuario ingresa la cantidad de dinero que desea convertir con ayuda de la clase BusquedaApi.
 
 ![image](https://github.com/EstebanTarazona/ConversorMonedas/assets/132153330/29272bde-0363-43da-87ac-37bbe91c224d)
 
-Luego, El programa realiza una solicitud a la API de ExchangeRate-API con BusquedaApi utilizando la API key proporcionada.
+Luego, El programa realiza una solicitud a la API de ExchangeRate-API utilizando la API key proporcionada.
 
 ![image](https://github.com/EstebanTarazona/ConversorMonedas/assets/132153330/0aed474c-faf6-48a3-a861-4f27b2095775)
 
